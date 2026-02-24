@@ -1,2 +1,39 @@
-# CodeAlpha_CGPACalculator
-CGPA Calculator in C++ – A console program to calculate a student’s cumulative GPA. Enter number of courses, grades, and credit hours; the program computes total credits and final CGPA using weighted average, displaying individual grades and overall CGPA. 
+#  CGPA Calculator (C++)
+
+A console-based CGPA calculator developed in C++ that computes a student's cumulative GPA using weighted average.
+
+---
+
+##  Features
+
+- Letter grade to GPA conversion
+- Lab subject support
+- Weighted CGPA calculation
+- Formatted transcript table
+- Input validation
+
+---
+
+## Concepts Used
+
+- Arrays
+- Functions
+- Loops
+- Conditional statements
+- iomanip formatting
+- Weighted average formula
+
+---
+
+##  Project Structure
+
+CodeAlpha_CGPACalculator/
+│── main.cpp
+│── README.md
+│── LICENSE
+
+---
+
+## Author
+
+Tayyaba Noor
